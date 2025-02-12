@@ -5,9 +5,9 @@
 </div>
 <br>
 <div style="display: inline_block">
-  &nbsp;&nbsp;<img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> &nbsp;
-  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> &nbsp;
-  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  &nbsp;&nbsp;<img width="35" height="35" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> &nbsp;
+  <img width="35" height="35" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> &nbsp;
+  <img width="35" height="35" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 </div>
 
   ##
