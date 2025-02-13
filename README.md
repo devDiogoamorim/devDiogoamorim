@@ -1,4 +1,4 @@
-## Oi! Eu sou o Diogo Amorim
+## Olá! Eu sou o Diogo Amorim
 <div>
 <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=devDiogoamorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 <img  width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devDiogoamorim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
